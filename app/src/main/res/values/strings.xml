@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="select">Select Item</string>
+    <string name="result">RESULT</string>
+    <string name="your_current_bmi">Your Current BMI:</string>
+    <string name="enter_your_age">Enter your age</string>
+</resources>
